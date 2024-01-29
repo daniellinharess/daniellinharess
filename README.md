@@ -3,7 +3,7 @@
 Hello World 👋
 
 -💻 Atualmente trabalho como projetista de redes optícas
--📘 Sou estudante de Análise e Desenvolvimento de Sistemas
+-🎓 Formado em Análise e Desenvolvimento de Sistemas
 
 <div>
  <a href="https://github.com/daniellinharess">
