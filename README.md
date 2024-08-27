@@ -3,7 +3,7 @@
 Hello World 👋
 
 -🎓 Formado em Análise e Desenvolvimento de Sistemas
--💻 JavaSCript & Python
+-💻 JavaScript & Python
 
 <div>
  <a href="https://github.com/daniellinharess">
