@@ -2,8 +2,8 @@
 
 Hello World 👋
 
--💻 Atualmente trabalho como projetista de redes optícas
 -🎓 Formado em Análise e Desenvolvimento de Sistemas
+-💻 JavaSCript & Python
 
 <div>
  <a href="https://github.com/daniellinharess">
